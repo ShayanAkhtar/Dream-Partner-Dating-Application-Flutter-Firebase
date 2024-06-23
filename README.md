@@ -1,12 +1,12 @@
-# My Flutter App
+# Dating App
 
-This is a Flutter application designed to [describe what your app does briefly].
+This is a Flutter-based dating application that allows users to connect with others, view profiles, and chat with matches.
 
 ## Features
 
-- Feature 1: [Brief description]
-- Feature 2: [Brief description]
-- Feature 3: [Brief description]
+- **User Profiles**: Users can create and edit their profiles, including uploading photos and writing bios.
+- **Matchmaking**: Users can swipe left or right to like or dislike other profiles.
+- **Chat Functionality**: Matched users can chat with each other in real-time.
 
 ## Prerequisites
 
@@ -25,3 +25,21 @@ To get started with this project, follow these steps:
 ```sh
 git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
+
+```
+### Install Dependencies
+```sh
+flutter pub get
+```
+### Set Up Firebase
+**Android**: Place your google-services.json file in android/app/.
+
+**iOS**: Place your GoogleService-Info.plist file in ios/Runner/.
+
+### Running the App
+```sh
+flutter run
+```
+
+
+
