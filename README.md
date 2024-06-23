@@ -40,6 +40,40 @@ flutter pub get
 ```sh
 flutter run
 ```
+# Usage
 
+## Create a Profile
+Sign up and create your profile by adding photos and a bio.
+
+## Find Matches
+Browse through other users' profiles and swipe right to like or left to dislike.
+
+## Start Chatting
+If you have a mutual like, you can start chatting with your match instantly.
+
+# Contributing
+
+Contributions are always welcome! Here’s how you can contribute:
+
+1. Fork the repository.
+2. Create a new branch:
+   ```bash
+   git checkout -b feature/your-feature
+    ```
+3. Make your changes and commit them:
+  ```bash
+   git commit -m 'Add some feature'
+  ```
+4. Push to the branch:
+  ```bash
+   git push origin feature/your-feature
+  ```
+5. Open a pull request.
+
+### License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+### Contact
+If you want to contact me, you can reach me at [shayantanoli38@gmail.com].
 
 
