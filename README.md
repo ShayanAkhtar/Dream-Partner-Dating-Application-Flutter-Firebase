@@ -23,8 +23,8 @@ To get started with this project, follow these steps:
 ### Clone the Repository
 
 ```sh
-git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/ShayanAkhtar/Dream-Partner-Dating-Application-Flutter-Firebase.git)
-cd your-repo-name
+git clone https://github.com/ShayanAkhtar/Dream-Partner-Dating-Application-Flutter-Firebase.git
+cd Dream-Partner-Dating-Application-Flutter-Firebase
 
 ```
 ### Install Dependencies
