@@ -59,8 +59,8 @@ Contributions are always welcome! Here’s how you can contribute:
 2. Create a new branch:
    ```bash
    git checkout -b feature/your-feature
-    ```
-3. Make your changes and commit them:
+   ```
+4. Make your changes and commit them:
   ```bash
    git commit -m 'Add some feature'
   ```
