@@ -25,7 +25,6 @@ To get started with this project, follow these steps:
 ```sh
 git clone https://github.com/ShayanAkhtar/Dream-Partner-Dating-Application-Flutter-Firebase.git
 cd Dream-Partner-Dating-Application-Flutter-Firebase
-
 ```
 ### Install Dependencies
 ```sh
@@ -60,14 +59,14 @@ Contributions are always welcome! Here’s how you can contribute:
    ```bash
    git checkout -b feature/your-feature
    ```
-4. Make your changes and commit them:
-  ```bash
+3. Make your changes and commit them:
+   ```bash
    git commit -m 'Add some feature'
-  ```
+   ```
 4. Push to the branch:
-  ```bash
+   ```bash
    git push origin feature/your-feature
-  ```
+   ```
 5. Open a pull request.
 
 ### License
